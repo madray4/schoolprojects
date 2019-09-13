@@ -1,0 +1,1 @@
+Coded methods in assembly language to decipher and encrypt messages using Bacon's Cipher. Demonstrated the ability to code in adequately assembly, manipulate memory according to coding standards, and following register conventions.
